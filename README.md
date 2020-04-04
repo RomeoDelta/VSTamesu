@@ -25,3 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 # 8行加えるテスト
 # 9行加えるテスト
 # 10行加えるテスト
+# 11行加えるテスト
+# 12行加えるテスト
+# 13行加えるテスト
